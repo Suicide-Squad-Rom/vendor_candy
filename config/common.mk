@@ -192,10 +192,10 @@ endif
 include vendor/candy/config/themes_common.mk
 
 #DragonTC
--include vendor/validus/config/dtc.mk
+-include vendor/candy/config/dtc.mk
 
 # Versioning System
-PRODUCT_VERSION_MAJOR = 6.0.1_r52
+PRODUCT_VERSION_MAJOR = 6.0.1_r61
 PRODUCT_VERSION_MINOR = 3.2
 PRODUCT_VERSION_MAINTENANCE = 3.2
 ifdef CANDY_BUILD_EXTRA
