@@ -23,4 +23,4 @@
 LOCAL_PATH := $(call my-dir)
 
 # Include UBER common configuration
-include vendor/validus/config/uber.mk
+include vendor/candy/config/uber.mk
