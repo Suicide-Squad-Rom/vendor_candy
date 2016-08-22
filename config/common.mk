@@ -191,6 +191,9 @@ endif
 # Themes
 include vendor/candy/config/themes_common.mk
 
+#DragonTC
+-include vendor/validus/config/dtc.mk
+
 # Versioning System
 PRODUCT_VERSION_MAJOR = 6.0.1_r52
 PRODUCT_VERSION_MINOR = 3.2
